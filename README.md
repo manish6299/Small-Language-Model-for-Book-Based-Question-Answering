@@ -15,7 +15,6 @@ Extended Response Length: Increased max_answer_len and included additional conte
 
 3️⃣ Model Architecture
 The architecture consists of the following components:
-
 PDF Text Extraction Module – Extracts raw text from the uploaded PDF.
 Text Chunking & Embedding Module – Splits text into chunks and embeds them using a SentenceTransformer.
 FAISS Index for Retrieval – Stores embeddings and retrieves the most relevant chunks for a given query.
