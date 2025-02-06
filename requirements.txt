@@ -1,0 +1,7 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+transformers
+torch
+langchain
+streamlit
